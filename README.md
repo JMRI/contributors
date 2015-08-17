@@ -11,7 +11,8 @@ for example:
 This file needs to be reasonably complete before we migrate JMRI.
 
 You can help with this migration by doing the following before September 4th:
-1) [Sign up to GitHub](https://github.com/join) if you do not already have a GitHub account.
-2) Edit the contributor’s file to update your personal information at [https://github.com/JMRI/contributors/edit/master/authors-transform.txt](https://github.com/JMRI/contributors/edit/master/authors-transform.txt), saving your change by clicking “Propose file change”
+
+1. [Sign up to GitHub](https://github.com/join) if you do not already have a GitHub account.
+2. Edit the contributor’s file to update your personal information at [https://github.com/JMRI/contributors/edit/master/authors-transform.txt](https://github.com/JMRI/contributors/edit/master/authors-transform.txt), saving your change by clicking “Propose file change”
 
 More information about the migration will be available as we develop the plans for this migration.
