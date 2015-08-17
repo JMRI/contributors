@@ -3,10 +3,13 @@ Contributors to JMRI
 
 We are migrating the JMRI source code from Subversion hosted at [SourceForge](http://sourceforge.net) to [Git](http://git-scm.com) hosted at [GitHub](https://github.com), most likely in early to mid-September.
 
-To migrate from Subversion to Git we need to create a file that lists the contributors to JMRI at SourceForge with their identities in Git format. This file has been started at https://github.com/JMRI/contributors/blob/master/authors-transform.txt by listing everyone who has committed a change to the JMRI source code at SourceForge. This file is in the format:
-   sourceforge-username = Real Name <email-address>
+To migrate from Subversion to Git we need to create a file that lists the contributors to JMRI at SourceForge with their identities in Git format. This file has been started at https://github.com/JMRI/contributors/blob/master/authors-transform.txt by listing everyone who has committed a change to the JMRI source code at SourceForge. This file is in the format, with one user per line:
+
+    sourceforge-username = Real Name <email-address>
+
 for example:
-   rhwood = Randall Wood <randall.h.wood@alexandriasoftware.com>
+
+    rhwood = Randall Wood <randall.h.wood@alexandriasoftware.com>
 
 This file needs to be reasonably complete before we migrate JMRI.
 
