@@ -1,13 +1,13 @@
 alanus = 
 alfredos = Alfredo Sola <alfredo@sola.es>
-bhoffman351 = 
+bhoffman351 = Brett Hoffman <bhoffman351@mac.com>
 billchown = 
 bob-m-dcc = 
 crosland = 
 dan_boudreau = 
 dat7719 = 
 davefalkenburg = 
-dheap = 
+dheap = Dave Heap <dgheap@gmail.com>
 djduchamp = 
 enzofortuna = 
 ginsburg = 
