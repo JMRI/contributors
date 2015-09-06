@@ -1,4 +1,4 @@
-alanus = 
+alanus = Alain Le Marchand <AlanUS.forum@gmail.com>
 alfredos = Alfredo Sola <alfredo@sola.es>
 bhoffman351 = Brett Hoffman <bhoffman351@mac.com>
 billchown = 
