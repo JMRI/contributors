@@ -18,6 +18,7 @@ Publish notice of this schedule to the JMRI developer’s list (include reminder
 
 ## 19 SEP
 SVN to Git migrations:
+
 1. Migrate website
 2. Migrate JMRI
 3. Migrate EngineDriver
