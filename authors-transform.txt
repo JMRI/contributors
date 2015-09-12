@@ -40,6 +40,6 @@ rscheffler =
 twindad = Mark Underwood <msunderwd@gmail.com>
 uid282776 = 
 uid52720 = 
-wsb56 = 
+wsb56 = Bernd Wisotzki <ba@modellbahn.wisotzki.org>
 zoo = david d zuhn <zoo@statebeltrailway.org>
 trstack = Tom Stack <trstack@earthlink.net>
