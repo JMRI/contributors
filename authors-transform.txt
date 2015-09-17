@@ -1,7 +1,7 @@
 alanus = Alain Le Marchand <AlanUS.forum@gmail.com>
 alfredos = Alfredo Sola <alfredo@sola.es>
 bhoffman351 = Brett Hoffman <bhoffman351@mac.com>
-billchown = 
+billchown = Bill Chown <orrrbrit2004@yahoo.com>
 bob-m-dcc = Bob Milhaupt <devel-bobm@sbcglobal.net>
 crosland = Andrew Crosland <andrewcrosland@talktalk.net>
 dan_boudreau = 
