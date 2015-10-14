@@ -29,6 +29,7 @@ mstevetodd = Steve Todd <mstevetodd@mstevetodd.com>
 nratonpass = Tim Hatch <nratonpass@users.sourceforge.net>
 pbender = Paul Bender <paul.bender@acm.org>
 pete_cressman = Pete Cressman <pete_cressman@sbcglobal.net>
+pierremc = Pierre Billon <pierre.bln@me.com>
 pinkrdp = Ronnie Pinkerton <pinkrdp@users.sourceforge.net>
 plocher = John Plocher <john.plocher@gmail.com>
 prfraker = prfraker <prfraker@users.sourceforge.net>
