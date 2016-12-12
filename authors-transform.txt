@@ -10,6 +10,7 @@ davefalkenburg = Dave Falkenburg <davefalkenburg@users.sourceforge.net>
 dheap = Dave Heap <dgheap@gmail.com>
 djduchamp = Dave Duchamp <djduchamp@users.sourceforge.net>
 enzofortuna = Enzo Fortuna <fortuna.enzo@gmail.com>
+geowar = George Warner <geowar1@mac.com>
 ginsburg = Gregory Madsen <ginsburg@users.sourceforge.net>
 giorgioitaly = Giorgio Terdina <giorgioitaly@users.sourceforge.net>
 glenobie = Glen Oberhauser <glenobie@users.sourceforge.net>
